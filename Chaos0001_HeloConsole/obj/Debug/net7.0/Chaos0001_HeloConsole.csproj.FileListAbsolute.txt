@@ -1,0 +1,15 @@
+C:\Users\Kiril\OneDrive\Документы\Chaos\Chaos0001_HeloConsole\bin\Debug\net7.0\Chaos0001_HeloConsole.exe
+C:\Users\Kiril\OneDrive\Документы\Chaos\Chaos0001_HeloConsole\bin\Debug\net7.0\Chaos0001_HeloConsole.deps.json
+C:\Users\Kiril\OneDrive\Документы\Chaos\Chaos0001_HeloConsole\bin\Debug\net7.0\Chaos0001_HeloConsole.runtimeconfig.json
+C:\Users\Kiril\OneDrive\Документы\Chaos\Chaos0001_HeloConsole\bin\Debug\net7.0\Chaos0001_HeloConsole.dll
+C:\Users\Kiril\OneDrive\Документы\Chaos\Chaos0001_HeloConsole\bin\Debug\net7.0\Chaos0001_HeloConsole.pdb
+C:\Users\Kiril\OneDrive\Документы\Chaos\Chaos0001_HeloConsole\obj\Debug\net7.0\Chaos0001_HeloConsole.csproj.AssemblyReference.cache
+C:\Users\Kiril\OneDrive\Документы\Chaos\Chaos0001_HeloConsole\obj\Debug\net7.0\Chaos0001_HeloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiril\OneDrive\Документы\Chaos\Chaos0001_HeloConsole\obj\Debug\net7.0\Chaos0001_HeloConsole.AssemblyInfoInputs.cache
+C:\Users\Kiril\OneDrive\Документы\Chaos\Chaos0001_HeloConsole\obj\Debug\net7.0\Chaos0001_HeloConsole.AssemblyInfo.cs
+C:\Users\Kiril\OneDrive\Документы\Chaos\Chaos0001_HeloConsole\obj\Debug\net7.0\Chaos0001_HeloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\OneDrive\Документы\Chaos\Chaos0001_HeloConsole\obj\Debug\net7.0\Chaos0001_HeloConsole.dll
+C:\Users\Kiril\OneDrive\Документы\Chaos\Chaos0001_HeloConsole\obj\Debug\net7.0\refint\Chaos0001_HeloConsole.dll
+C:\Users\Kiril\OneDrive\Документы\Chaos\Chaos0001_HeloConsole\obj\Debug\net7.0\Chaos0001_HeloConsole.pdb
+C:\Users\Kiril\OneDrive\Документы\Chaos\Chaos0001_HeloConsole\obj\Debug\net7.0\Chaos0001_HeloConsole.genruntimeconfig.cache
+C:\Users\Kiril\OneDrive\Документы\Chaos\Chaos0001_HeloConsole\obj\Debug\net7.0\ref\Chaos0001_HeloConsole.dll
